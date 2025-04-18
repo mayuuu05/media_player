@@ -46,3 +46,4 @@ Check out some screenshots of the application below:
    
    ```bash
    git clone https://github.com/your-username/video_player_application.git
+   ```
